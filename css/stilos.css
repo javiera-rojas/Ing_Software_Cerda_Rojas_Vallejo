@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    color: white;
+    background-color: darkslategray;
+}
+
+#carru{
+    height: 400px;
+}
+
+#imgin{
+    width: 50%;
+    height: 50%;
+}
+
+#seccion2{    
+    
+    background-color: rgb(9, 39, 37);
+}
+
+#imgs2{
+    width: 400px;
+    height: 400px;
+}
+
+#imgs3{
+    width: 200px;
+    height: 200px;
+}
+
+#imgs4{
+    width: 500px;
+    height: 600px;
+}
+
+#imgteam{
+    width: 50%;
+    height: 50%;
+}
+
+#pform{
+    width: 70%;
+}
+
+#footer{
+    background-color: darkslateblue;
+    height: 100px;
+    color: darkseagreen;
+    bottom: 0%;
+    text-align: right;
+}
+
+#footerr{
+    background-color: darkslateblue;
+    height: 100px;
+    color: darkseagreen;
+    position: absolute;
+    bottom: 0%;
+    text-align: right;
+}
+
+#cont{
+    text-align: right;
+}
+
+
+
+
